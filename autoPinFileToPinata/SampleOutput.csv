@@ -1,0 +1,2 @@
+filename,hash,title,link,author,subtitle,image_href,summary,enclosure_url,enclosure_length,enclosure_type,guid,pubDate,explicit,duration,showname
+sampleFilename.mp4,QmNjpabCD2jk2vRnGg4UBd5mdM9bzbFhEGaFocb2UHPwwk,sample title,https://sampleURL,sample author,"sample subtitle",https://sample.jpg,"sample summary",https://sample.mp4,0,video/mp4,https://sample.mp4,"Fri, 29 May 2015 21:30:00 +0800",no,00:52:04,sample showname
